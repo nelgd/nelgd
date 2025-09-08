@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi, I'm Nelson
 
-# About Me
-Coming soon...
+## About Me
+This is my work account
 
 <!--
 **nelgd/nelgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
