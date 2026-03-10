@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">- 🔭 I’m working as a Software Developer at Ross Video<br>- ⚡ Working on the Development of the Catena Project</p>
+<p align="center">- 🔭 Software Developer at Ross Video<br>- ⚡Working on the Development of Catena</p>
 
 ###
 
