@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center"> 🔭 Software Developer at Ross Video<br> ⚡Working on the Development of Catena</p>
+<p align="center"> CS Student @ Carleton University<br> 🔭 Software Developer at Ross Video<br> ⚡Working on the Development of Catena</p>
 
 ###
 
